@@ -1,0 +1,73 @@
+body 	{
+	background-color: #121f0b;
+	background-image: url('background.jpg');
+	background-repeat: no-repeat;
+	background-size:100%;
+	}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a:link		{	color: #fffaeb;
+text-decoration: none;}
+a:visited	{	color: #fffaeb;
+text-decoration: none;}
+a:hover		{	color: #fffaeb;
+text-decoration: none;}
+a:active	{	color: #fffaeb;
+text-decoration: none;}
+
+p	{
+	font-family: 'Crimson Text', serif;
+	color: #fffaeb;
+	font-size: 20px;
+	text-align:center;
+	letter-spacing: 1px;
+	}
+
+h2	{
+	font-family: 'Crimson Text', serif;
+	color: #fffaeb;
+	font-size: 30px;
+	text-align:center;
+	letter-spacing: 1px;
+	}
+
+h1	{
+	font-family: 'Averia Serif Libre', serif;
+	color: #fffaeb;
+	font-size: 50px;
+	text-align:center;
+	letter-spacing: 1px;
+	}
+
+.crimson-text-regular {
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.babylonica-regular {
+  font-family: "Babylonica", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.averia-serif-libre-regular {
+  font-family: "Averia Serif Libre", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+pre	{
+	font-family: 'IM Fell Great Primer', serif;
+	color: #fffaeb;
+	font-size: 20px;
+	text-align:center;
+	letter-spacing: 1px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 150px;
+	}
